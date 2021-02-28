@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://gitraya.github.io/edie-homepage/">
+    <a href="https://ediehomepage-gitraya.netlify.app/">
       Demo
     </a>
     <span> | </span>
