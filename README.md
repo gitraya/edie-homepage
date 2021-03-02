@@ -6,7 +6,11 @@
 
 <div align="center">
   <h3>
+<<<<<<< HEAD
     <a href="https://gitraya.github.io/edie-homepage/">
+=======
+    <a href="https://ediehomepage-gitraya.netlify.app/">
+>>>>>>> 1f5dca716f235d63b37cbc7d9b31e55108d0ebfb
       Demo
     </a>
     <span> | </span>
@@ -48,4 +52,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
+<<<<<<< HEAD
 - GitHub [@gitraya](https://github.com/gitraya)
+=======
+- GitHub [@gitraya](https://github.com/gitraya)
+>>>>>>> 1f5dca716f235d63b37cbc7d9b31e55108d0ebfb
